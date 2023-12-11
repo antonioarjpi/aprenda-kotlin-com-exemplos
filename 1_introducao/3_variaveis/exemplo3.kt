@@ -18,4 +18,9 @@ fun main() {
     
     println(d) // 3
 
+    d = 2 // Não pode reatribuir o valor imutável de 'val'
+
+    println("Não deve ser exibido")
+
+
 }

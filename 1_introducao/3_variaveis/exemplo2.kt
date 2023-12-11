@@ -5,7 +5,8 @@
  */
 fun main() {
 
-    var e: Int  // 1
-    println(e)  // 2
+    var e: Int  // Inicia variável sem valor atribuido
+    e = 1 // Atribui valor 1 para variável
+    println(e)  
 
 }

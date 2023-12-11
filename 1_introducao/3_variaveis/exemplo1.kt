@@ -10,4 +10,8 @@ fun main() {
     val b: Int = 1             // 2
     val c = 3                  // 3
 
+    print(a)
+    println(b)
+    println(c)
+
 }
